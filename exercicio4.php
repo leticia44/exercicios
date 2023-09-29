@@ -8,7 +8,7 @@
     echo "ALERTA! Via de trânsito rápido<br>";
 
     }else if ($velocidade >50){
-    echo "Multa!<br>";
+    echo "Multa! O motorista atingiu o limite de velocidade permitida <br>";
 }
 
 
