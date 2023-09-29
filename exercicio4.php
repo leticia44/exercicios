@@ -1,5 +1,5 @@
 <?php
- $velocidade = 45;
+ $velocidade = 40;
 
  if ($velocidade >= 41 && $velocidade <= 50){
     echo "O motorista está na velocidade correta <br>";
