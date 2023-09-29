@@ -2,9 +2,9 @@
 
 // declaração das variáveis
 
-$numero = 5;
+$numero = 4;
 
-$nome = "";
+$nome = "Rosana";
 
 // lê a variável 
 switch ($numero) {
